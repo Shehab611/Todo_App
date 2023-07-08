@@ -1,16 +1,24 @@
-# todo
+# Todo App
 
-A new Flutter project.
+A Flutter Application that you can add notes to it
 
-## Getting Started
+## Technologies 
 
-This project is a starting point for a Flutter application.
+Dart Programming language
 
-A few resources to get you started if this is your first Flutter project:
+Flutter Framework
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Bloc(cubit) as State management
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Saving notes in SQLite database
+
+## Installation
+
+You can download the app through the link below
+
+https://drive.google.com/file/d/1vqdJAsfPUr6wxDrMmL9I96AvSgFSDQDY/view?usp=sharing
+
+
+
+
+
